@@ -1,7 +1,12 @@
 title: Girolamo Macaluso
 logo: /assets/img/1545212646359.jpg
-description: test
-show_downloads: false
+description: Phd Student at MICC https://www.micc.unifi.it/ 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+social-network-links:
+  email: "girolamomacaluso@gmail.com"
+  github: ganjiro
+  twitter: daattali
+  patreon: DeanAttali
+  linkedin: https://www.linkedin.com/in/girolamo-macaluso-b50571164/
