@@ -6,7 +6,6 @@ title: Girolamo Macaluso
 <nav style="text-align:center; margin-bottom:2em;">
   <a href="#about">About</a> |
   <a href="#education">Education</a> |
-  <a href="#skills">Skills</a> |
   <a href="#experience">Experience</a> |
   <a href="#research-interests">Research</a> |
   <a href="#publications">Publications</a> |
