@@ -13,8 +13,8 @@ title: Home
   <a href="#teaching">Teaching</a>
 </nav>
 
-<p style="text-align:center;">
-  <img src="/assets/image.jpg" alt="Photo of Girolamo" style="border-radius:50%; width:128px; height:128px;">
+<p style="text-align:right;">
+  <img src="/assets/image.jpg" alt="Photo of Girolamo" style="border-radius:50%; width:512px; height:512px;">
 </p>
 
 # About {#about}
@@ -25,7 +25,7 @@ PhD Student in Artificial Intelligence
 
 📍 Florence, Italy · ✉️ [girolamo.macaluso@unifi.it](mailto:girolamo.macaluso@unifi.it) · 🔗 [LinkedIn](https://linkedin.com/in/girolamo-macaluso-b50571164) · 💻 [GitHub](https://github.com/ganjiro) · 🎓 [Scholar](https://scholar.google.com/citations?user=LyxLJXMAAAAJ)
 
-My research focuses on Offline & Online Reinforcement Learning, Self-Supervised & Continual Learning, with applications to improving AI agents in video games.
+My research is dedicated to making Reinforcement Learning more efficient and scalable. I began by exploring offline and hybrid offline→online RL methods to maximize learning from static datasets, then developed techniques to cut the computational and memory costs of state-of-the-art algorithms. I’m now advancing continual RL frameworks that adapt to evolving environments and applying RL to fine-tune diffusion models.
 
 ---
 
