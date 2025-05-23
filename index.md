@@ -23,7 +23,7 @@ title: Home
 PhD Student in Artificial Intelligence  
 [Media Integration and Communication Center](https://www.micc.unifi.it/), University of Florence, Italy
 
-📍 Florence, Italy · ✉️ [girolamo.macaluso@unifi.it](mailto:girolamo.macaluso@unifi.it) · 🔗 [LinkedIn](https://linkedin.com/in/girolamo-macaluso-b50571164) · 💻 [GitHub](https://github.com/ganjiro)
+📍 Florence, Italy · ✉️ [girolamo.macaluso@unifi.it](mailto:girolamo.macaluso@unifi.it) · 🔗 [LinkedIn](https://linkedin.com/in/girolamo-macaluso-b50571164) · 💻 [GitHub](https://github.com/ganjiro) · 🎓 [Scholar](https://scholar.google.com/citations?user=LyxLJXMAAAAJ)
 
 My research focuses on Offline & Online Reinforcement Learning, Self-Supervised & Continual Learning, with applications to improving AI agents in video games.
 
@@ -57,7 +57,7 @@ My research focuses on Offline & Online Reinforcement Learning, Self-Supervised 
 
 **Part-time Software Engineer**, Maba S.R.L, Florence  
 Jan 2019–Jul 2023  
-> Integrated customer-specific customizations into a centralized ERP system.
+Designed and delivered end-to-end enhancements to a centralized ERP platform, including database modeling, backend API development, and user-facing interface components to support customer-specific workflows.
 
 ---
 
@@ -71,18 +71,17 @@ Jan 2019–Jul 2023
 ---
 
 # Publications {#publications}
-
-1. **Small Dataset, Big Gains: Enhancing RL by Offline Pre-Training with Model-Based Augmentation.**  
-   Oral at AIBSD Workshop, AAAI 2024.  
-   🔗 [Arxiv](https://arxiv.org/abs/2312.09844)
+1. **SPEQ: Offline Stabilization Phases for Efficient Q-Learning in High Update-To-Data Ratio RL.**  
+   Accepted at Reinforcement Learning Conference 2025. 🔗 [Open Review](https://openreview.net/forum?id=cVb76DmIn8) 🔗 GitHub (Code available soon)
+   We introduced a novel online reinforcement learning framework with periodic offline stabilization that cuts computational requirements and training time while matching or exceeding state-of-the-art performance.
 
 2. **A Benchmark Environment for Offline RL in Racing Games.**  
-   Oral at IEEE Conference on Games 2024. 
-   🔗 [Arxiv](https://arxiv.org/abs/2407.09415) 
+   Oral at IEEE Conference on Games 2024. 🔗 [Arxiv](https://arxiv.org/abs/2407.09415) [GitHub](https://arxiv.org/abs/2407.09415) 
+   Introduces OfflineMania a novel benchmark environment for offline and offline to online RL with challenging data distribution.
 
-3. **SPEQ: Offline Stabilization Phases for Efficient Q-Learning in High Update-To-Data Ratio RL.**  
-   Accepted at Reinforcement Learning Conference 2025.  
-   🔗 [Open Review](https://openreview.net/forum?id=cVb76DmIn8)
+3. **Small Dataset, Big Gains: Enhancing RL by Offline Pre-Training with Model-Based Augmentation.**  
+   Oral at AIBSD Workshop, AAAI 2024. 🔗 [Arxiv](https://arxiv.org/abs/2312.09844)
+   Proposed a novel technique based on a generative model on for improving offline to online RL performance when dealing with small datasets.
 
 ---
 
@@ -90,8 +89,8 @@ Jan 2019–Jul 2023
 
 **Teaching Assistant**, University of Florence  
 Jan 2023–Present  
-> Interactive C/C++ & Python lessons for 200+ undergraduates.
+Interactive C/C++ & Python lessons for 200+ undergraduates.
 
 **STEM Outreach Teacher**, European STEM Project  
 Feb 2024–Present  
-> Introduce high-schoolers to engineering and real-world AI challenges.
+Introduce students to the field of engineering and explain the challenges of applying AI to real world problems.
