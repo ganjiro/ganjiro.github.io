@@ -45,14 +45,6 @@ My research is dedicated to making Reinforcement Learning more efficient and sca
 
 ---
 
-# Skills {#skills}
-
-- **Programming:** Python · C\# · C++ · SQL · R · Java  
-- **Frameworks:** JAX · PyTorch · Unity · LaTeX · Git  
-- **Specialties:** Reinforcement Learning · Deep Learning · Self-Supervised Learning · Video Games
-
----
-
 # Experience {#experience}
 
 **Part-time Software Engineer**, Maba S.R.L, Florence  
