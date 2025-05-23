@@ -1,6 +1,25 @@
-title: Girolamo Macaluso
-logo: /assets/img/1545212646359.jpg
-description: Offline Reinforcemente Learning, Computer Vision & Robotics
-theme: jekyll-theme-minimal
+# _config.yml
+title: "Girolamo Macaluso"
+email: girolamo.macaluso@unifi.it
+description: "PhD Student in Artificial Intelligence at University of Florence"
+baseurl: ""          # no subpath, since this is user site
+url: "https://ganjiro.github.io"
+theme: jekyll-theme-cayman
 
+# Navigation links
+nav:
+  - title: About
+    url: /index.html
+  - title: Resume
+    url: /resume.html
+  - title: Publications
+    url: /publications.html
+  - title: Teaching
+    url: /teaching.html
+# below existing settings
+sass:
+  style: compressed
 
+# add in your head
+include:
+  - assets/css/custom.css
