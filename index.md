@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Girolamo Macaluso
 ---
 
 <nav style="text-align:center; margin-bottom:2em;">
