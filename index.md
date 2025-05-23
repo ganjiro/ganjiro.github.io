@@ -13,8 +13,8 @@ title: Girolamo Macaluso
   <a href="#teaching">Teaching</a>
 </nav>
 
-<p style="text-align:right;">
-  <img src="/assets/image.jpg" alt="Photo of Girolamo" style="border-radius:50%; width:512px; height:512px;">
+<p style="text-align:center;">
+  <img src="/assets/image.jpg" alt="Photo of Girolamo" style="border-radius:50%; width:256px; height:256px;">
 </p>
 
 # About {#about}
@@ -72,15 +72,15 @@ Designed and delivered end-to-end enhancements to a centralized ERP platform, in
 
 # Publications {#publications}
 1. **SPEQ: Offline Stabilization Phases for Efficient Q-Learning in High Update-To-Data Ratio RL.**  
-   Accepted at Reinforcement Learning Conference 2025. 🔗 [Open Review](https://openreview.net/forum?id=cVb76DmIn8) 🔗 GitHub (Code available soon)
-   We introduced a novel online reinforcement learning framework with periodic offline stabilization that cuts computational requirements and training time while matching or exceeding state-of-the-art performance.
+   Accepted at Reinforcement Learning Conference 2025.  🔗[Open Review](https://openreview.net/forum?id=cVb76DmIn8)  🔗GitHub (Code available soon)  
+   Introduces a novel online reinforcement learning framework with periodic offline stabilization that cuts computational requirements and training time while matching or exceeding state-of-the-art performance.
 
 2. **A Benchmark Environment for Offline RL in Racing Games.**  
-   Oral at IEEE Conference on Games 2024. 🔗 [Arxiv](https://arxiv.org/abs/2407.09415) [GitHub](https://arxiv.org/abs/2407.09415) 
+   Oral at IEEE Conference on Games 2024.  🔗[Arxiv](https://arxiv.org/abs/2407.09415)  🔗[GitHub](https://arxiv.org/abs/2407.09415)  
    Introduces OfflineMania a novel benchmark environment for offline and offline to online RL with challenging data distribution.
 
 3. **Small Dataset, Big Gains: Enhancing RL by Offline Pre-Training with Model-Based Augmentation.**  
-   Oral at AIBSD Workshop, AAAI 2024. 🔗 [Arxiv](https://arxiv.org/abs/2312.09844)
+   Oral at AIBSD Workshop, AAAI 2024.  🔗[Arxiv](https://arxiv.org/abs/2312.09844)  
    Proposed a novel technique based on a generative model on for improving offline to online RL performance when dealing with small datasets.
 
 ---
