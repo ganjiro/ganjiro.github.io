@@ -17,9 +17,3 @@ nav:
   - title: Teaching
     url: /teaching.html
 # below existing settings
-sass:
-  style: compressed
-
-# add in your head
-include:
-  - assets/css/custom.css
