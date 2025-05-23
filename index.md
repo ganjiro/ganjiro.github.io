@@ -3,6 +3,13 @@ layout: default
 title: About
 ---
 
+<nav style="text-align:center; margin-bottom:1em;">
+[About](/) | 
+[Resume](/resume.html) | 
+[Publications](/publications.html) | 
+[Teaching](/teaching.html)
+</nav>
+
 ![Photo of Girolamo](/assets/image.jpg){:height="128px"}
 
 # Girolamo Macaluso
