@@ -2,15 +2,9 @@
 layout: default
 title: Teaching & Mentoring
 ---
-
 <nav style="text-align:center; margin-bottom:1em;">
-[About](/) | 
-[Resume](/resume.html) | 
-[Publications](/publications.html) | 
-[Teaching](/teaching.html)
+[About](/) | [Resume](/resume/) | [Publications](/publications/) | [Teaching](/teaching/)
 </nav>
-
-
 ## Teaching & Mentoring
 
 **Teaching Assistant** (Jan 2023 – Present)  

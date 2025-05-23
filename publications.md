@@ -4,10 +4,7 @@ title: Publications
 ---
 
 <nav style="text-align:center; margin-bottom:1em;">
-[About](/) | 
-[Resume](/resume.html) | 
-[Publications](/publications.html) | 
-[Teaching](/teaching.html)
+[About](/) | [Resume](/resume/) | [Publications](/publications/) | [Teaching](/teaching/)
 </nav>
 
 
