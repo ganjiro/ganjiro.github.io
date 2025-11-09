@@ -62,15 +62,19 @@ Designed and delivered end-to-end enhancements to a centralized ERP platform, in
 ---
 
 # Publications {#publications}
-1. **SPEQ: Offline Stabilization Phases for Efficient Q-Learning in High Update-To-Data Ratio RL.**  
-   Accepted at Reinforcement Learning Conference 2025.  🔗[Open Review](https://openreview.net/forum?id=cVb76DmIn8)  🔗GitHub (Code available soon)  
+1. **No MoCap Needed: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts.**  
+   Accepted at Winter Conference on Applications of Computer Vision (WACV) 2026.  🔗[arxiv](https://arxiv.org/abs/2510.06988)  🔗GitHub (Code available soon)  
+   Propose a reinforcement learning–based method to fine-tune pretrained motion diffusion models using only textual prompts.
+
+3. **SPEQ: Offline Stabilization Phases for Efficient Q-Learning in High Update-To-Data Ratio RL.**  
+   Accepted at Reinforcement Learning Conference (RLC) 2025.  🔗[Open Review](https://openreview.net/forum?id=cVb76DmIn8)  🔗[GitHub](https://github.com/CarloRomeo427/SPEQ)
    Introduces a novel online reinforcement learning framework with periodic offline stabilization that cuts computational requirements and training time while matching or exceeding state-of-the-art performance.
 
-2. **A Benchmark Environment for Offline RL in Racing Games.**  
-   Oral at IEEE Conference on Games 2024.  🔗[Arxiv](https://arxiv.org/abs/2407.09415)  🔗[GitHub](https://arxiv.org/abs/2407.09415)  
+4. **A Benchmark Environment for Offline RL in Racing Games.**  
+   Oral at IEEE Conference on Games (COG) 2024.  🔗[Arxiv](https://arxiv.org/abs/2407.09415)  🔗[GitHub](https://github.com/ganjiro/OfflineMania)  
    Introduces OfflineMania a novel benchmark environment for offline and offline to online RL with challenging data distribution.
 
-3. **Small Dataset, Big Gains: Enhancing RL by Offline Pre-Training with Model-Based Augmentation.**  
+5. **Small Dataset, Big Gains: Enhancing RL by Offline Pre-Training with Model-Based Augmentation.**  
    Oral at AIBSD Workshop, AAAI 2024.  🔗[Arxiv](https://arxiv.org/abs/2312.09844)  
    Proposed a novel technique based on a generative model on for improving offline to online RL performance when dealing with small datasets.
 
